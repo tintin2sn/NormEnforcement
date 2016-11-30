@@ -15,3 +15,5 @@ The script has three main sections roughly corresponding to:
   
   NB1:Note however, that some data reported in the supplement is based on analyses shown in the first section. 
   NB2:The final section includes code to run multi-level models in MLwiN through the runmlwin commands Stata. These are commented out and require as they require software and package installations, and a specification of a directory for MLwiN. 
+
+A sample datasheet "NormEnforcementDataSheet.pdf" is also provided as reference for many of the variable names.
